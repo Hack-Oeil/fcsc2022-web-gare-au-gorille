@@ -10,7 +10,7 @@ Origine : [Gare au Gorille](https://hackropole.fr/fr/challenges/web/fcsc2022-web
 
 -----------
 
-## Connectez vous en WEBSSH
+## Connectez vous
 > http://localhost
 
 
