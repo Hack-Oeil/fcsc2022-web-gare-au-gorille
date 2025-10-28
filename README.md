@@ -4,7 +4,7 @@ J’ai construit un site sans prétention pour stocker ma collection de memes !
 
 ![meme.jpg](meme.jpg)
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Gare au Gorille](https://hackropole.fr/fr/challenges/web/fcsc2022-web-gare-au-gorille/)
 
